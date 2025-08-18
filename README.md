@@ -36,8 +36,3 @@ This repository, **datascience-kit**, contains end-to-end projects that demonstr
 - Python (Pandas, NumPy, Scikit-learn, Prophet, Matplotlib, Seaborn)
 - Jupyter Notebooks
 - Git & GitHub
-
-## 🚀 Next Steps
-- Add exploratory data analysis (EDA) notebooks
-- Implement ML models in each project
-- Deploy selected projects as web apps

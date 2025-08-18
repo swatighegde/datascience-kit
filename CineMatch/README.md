@@ -15,8 +15,3 @@ It leverages the **MovieLens dataset** to provide personalized movie recommendat
 - Surprise / LightFM (for collaborative filtering)
 - Jupyter Notebooks
 
-## 🚀 Next Steps
-- Load and clean MovieLens dataset
-- Build collaborative filtering model
-- Build content-based model
-- Combine into hybrid system

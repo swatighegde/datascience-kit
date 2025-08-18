@@ -15,7 +15,3 @@ It uses **Logistic Regression** to classify transactions as fraudulent or genuin
 - Matplotlib, Seaborn
 - Jupyter Notebooks
 
-## 🚀 Next Steps
-- Load and preprocess dataset
-- Train Logistic Regression model
-- Evaluate with accuracy, precision, recall, F1-score

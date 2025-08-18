@@ -15,7 +15,3 @@ RetailVision is a time series forecasting project that predicts **U.S. monthly r
 - Prophet (Facebook)
 - Matplotlib, Seaborn
 
-## 🚀 Next Steps
-- Perform EDA on retail dataset
-- Build baseline forecasts
-- Evaluate Prophet vs Linear Regression models
