@@ -13,5 +13,5 @@ It leverages the **MovieLens dataset** to provide personalized movie recommendat
 - Python
 - Pandas, NumPy, Scikit-learn
 - Surprise / LightFM (for collaborative filtering)
-- Jupyter Notebooks
+
 
