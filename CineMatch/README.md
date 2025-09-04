@@ -32,34 +32,9 @@ CineMatch
 
 ---
 
-## 🛠 Tech Stack  
-- **Language:** Python  
-- **Libraries:**  
-- `pandas`, `numpy` → Data manipulation    
-- `scikit-learn` →  TF-IDF, cosine similarity  
-- `matplotlib`, `seaborn` → visualization  
-- **Environment:** Jupyter Notebook
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy, Scikit-learn
+- Surprise / LightFM (for collaborative filtering)
 
---- 
 
-## 📊 Dataset 
-- **Source:** [Kaggle – MovieLens dataset](https://www.kaggle.com/datasets/sriharshabsprasad/movielens-dataset-100k-ratings/data)
-
----
-
-## 🏆 Results  
-- **Content-Based Filtering** recommends movies with similar genres and tags.  
-- **Collaborative Filtering** finds movies based on rating patterns from similar users.  
-- **Hybrid Model** achieved the **best balance**, with higher **Precision@5** and **NDCG@5**, showing improved personalization and diversity in recommendations.  
-
----
-
-## 🚀 How to Run  
-
-```bash
-# Clone repository
-git clone https://github.com/swatighegde/datascience-kit.git
-cd CineMatch
-
-# Launch notebook
-jupyter notebook movie_recommendation_system.ipynb
