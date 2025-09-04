@@ -36,5 +36,3 @@ CineMatch
 - Python
 - Pandas, NumPy, Scikit-learn
 - Surprise / LightFM (for collaborative filtering)
-
-
