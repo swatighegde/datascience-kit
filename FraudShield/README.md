@@ -24,7 +24,7 @@ FraudShield-CreditCardFraudDetection/
 ├── data/
 │ └── creditcard.csv
 │
-├── notebooks/
+├── notebook/
 │ └── fraudshield_notebook.ipynb
 │
 ├── README.md
