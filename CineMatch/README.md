@@ -25,7 +25,7 @@ CineMatch
 │ └── ratings.csv
 │ └── tags.csv
 │
-├── notebooks/
+├── notebook/
 │ └── movie_recommendation_system.ipynb
 │
 ├── README.md
