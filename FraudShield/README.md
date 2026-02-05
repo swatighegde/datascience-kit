@@ -39,7 +39,6 @@ FraudShield-CreditCardFraudDetection/
   - `matplotlib`, `seaborn` → visualization  
   - `scikit-learn` → preprocessing, evaluation  
   - `xgboost` → XGBClassifier for boosting  
-  - `imbalanced-learn` → SMOTE for handling imbalance
 - **Environment:** Jupyter Notebook  
 
 --- 
